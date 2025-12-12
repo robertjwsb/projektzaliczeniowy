@@ -18,7 +18,7 @@ Linki:
 [tekst linku](https://link)
 
 Obrazy:
-![opis](nazwa_pliku.jpg)
+![opis](status-2.png)
 
 Pozioma linia:
 —
