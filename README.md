@@ -13,3 +13,12 @@ Listy:
 
 Kod:
 <pre> ```txt fragment kodu ``` </pre>
+
+Linki:
+[tekst linku](https://link)
+
+Obrazy:
+![opis](nazwa_pliku.jpg)
+
+Pozioma linia:
+—
